@@ -1,3 +1,5 @@
-run = "php -S 0.0.0.0:8000 -t ."
-
-entrypoint = "index.php"
+{ pkgs }: {
+	deps = [
+		pkgs.php74
+	];
+}

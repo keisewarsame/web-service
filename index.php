@@ -10,6 +10,8 @@
       echo "<p>This is PHP</p>";
     ?> 
     <p>This is HTML</p>
+
+    <p>Hello from replit</p>
   </body>
 
 </html>
